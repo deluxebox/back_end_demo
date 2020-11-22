@@ -1,2 +1,3 @@
-# common_repo
-for test and fun
+# BACK END DEMO CODE by CHRIS Y
+
+This is for demonstration only.
