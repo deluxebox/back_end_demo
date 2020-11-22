@@ -1,3 +1,3 @@
-# BACK END DEMO CODE by CHRIS Y
+# BACK END DEMO by CHRIS
 
 This is for demonstration only.
